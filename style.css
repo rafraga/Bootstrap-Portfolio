@@ -1,0 +1,54 @@
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+ul li {
+	display:inline;
+	white-space:pre;
+}
+
+#border {
+padding: 0 30px 30px;
+margin:0px auto 0;
+border-style:solid;
+border-width:1px;
+border-color: black;
+}
+
+#border2 {
+        padding: 0 30px 30px;
+        margin:0px auto 0;
+        border-style:solid;
+        border-width:1px;
+        border-color: black;
+        width: 300px;
+        }
+
+#main-header {
+	border-style:solid;
+	border-width:0 0 3px 0;
+	border-color: black;
+	color: #4aaaa5;
+	padding:10px 0 10px 10px;
+}
+
+#logo {
+	width: 275px;
+	height: 90px;
+	background: #4aaaa5;
+	float: left;
+	text-align: center;
+	line-height: 70px;
+	font-weight: 700;
+	color: #ffffff;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+#contact_form {	
+	color: #4aaaa5;
+	padding:10px 0 10px 10px;
+	width: 475px;
+}
